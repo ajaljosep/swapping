@@ -9,7 +9,6 @@ public class SwapExample
         b = a / b;       
         a = a / b;     
         Console.Write("After swap a: " + a + " b= " + b);
-        Console.WriteLine("Bye");
     }
 
 }
